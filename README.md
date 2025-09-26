@@ -31,17 +31,6 @@ The project demonstrates industry-standard workflows:
 - `/images` → screenshots for README & preview  
 - `/docs` → reports and PDF version of dashboard  
 
----
-
-## 📊 Dashboard Preview
-### Page 1 – Executive Overview
-![Page 1](images/dashboard_page1.png)
-
-### Page 2 – Customer Insights
-![Page 2](images/dashboard_page2.png)
-
-### Page 3 – Regional Performance
-![Page 3](images/dashboard_page3.png)
 
 ---
 
