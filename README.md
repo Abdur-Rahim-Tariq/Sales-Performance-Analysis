@@ -36,13 +36,13 @@ The project demonstrates industry-standard workflows:
 
 ## 📊 Dashboard Preview
 ### Page 1 – Executive Overview
-![Page 1](/images/Dashboard_Page1.png)
+![Page 1](images/Dashboard_Page1.png)
 
 ### Page 2 – Customer Insights
-![Page 2](/images/Dashboard_Page2.png)
+![Page 2](images/Dashboard_Page2.png)
 
 ### Page 3 – Regional Performance
-![Page 3](/images/Dashboard_Page3.png)
+![Page 3](images/Dashboard_Page3.png)
 
 ---
 
