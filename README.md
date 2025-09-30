@@ -34,11 +34,15 @@ The project demonstrates industry-standard workflows:
 
 ---
 
-## 🚀 Key Insights
-- **Top 10 customers** drive a significant share of sales & profits  
-- **Furniture category** generates high sales but low margin (~2.5%)  
-- **Technology category** is most profitable (~17% margin)  
-- **West region** leads in both sales & profit  
+## 📊 Dashboard Preview
+### Page 1 – Executive Overview
+![Page 1](/images/Dashboard_Page1.png)
+
+### Page 2 – Customer Insights
+![Page 2](/images/Dashboard_Page2.png)
+
+### Page 3 – Regional Performance
+![Page 3](/images/Dashboard_Page3.png)
 
 ---
 
