@@ -25,9 +25,9 @@ The project demonstrates industry-standard workflows:
 
 ## 📂 Folder Structure
 - `/dataset` → dataset link  
-- `/sql` → SQL scripts + results  
+- `/sql` → SQL scripts and results  
 - `/python` → Python notebook for cleaning & EDA  
-- `/powerbi` → Power BI dashboard file  
+- `/powerbi` → Power BI dashboard file 
 - `/images` → screenshots for README & preview  
 - `/docs` → reports and PDF version of dashboard  
 
